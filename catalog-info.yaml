@@ -6,4 +6,5 @@ metadata:
     github.com/project-slug: IsmailSyarief/test-backstage
 spec:
   type: other
+  owner: admin
   lifecycle: unknown
